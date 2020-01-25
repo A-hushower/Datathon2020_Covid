@@ -1,0 +1,12 @@
+JFK - New York
+EWR - New York
+IAH - Houston
+SEA - Seattle
+BFI - Seattle
+ORD - Chicago
+MDW - Chicago
+SFO - San Francisco
+LAX - Los Angeles
+BOS - Boston
+DFW - Dallas
+DTW - Detroit

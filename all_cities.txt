@@ -1,0 +1,341 @@
+Albuquerque
+Anchorage
+Atlanta
+Austin
+Windsor Locks
+Birmingham
+Nashville
+Boston
+Buffalo
+Burbank
+Baltimore
+Charleston
+Cleveland
+Charlotte
+Columbus
+Covington
+Dallas
+Arlington
+Denver
+Dallas-Fort Worth
+Detroit
+El Paso
+Newark
+Ft. Lauderdale
+Honolulu
+Houston
+Chantilly
+Houston
+Indianapolis
+Jacksonville
+New York
+Las Vegas
+Los Angeles
+New York
+Little Rock
+Kansas City
+Orlando
+Chicago
+Memphis
+Miami
+Milwaukee
+Minneapolis
+New Orleans
+Oakland
+Kahului
+Oklahoma City
+Omaha
+Ontario
+Chicago
+Norfolk
+West Palm Beach
+Portland
+Philadelphia
+Phoenix
+Pittsburgh
+Providence
+Raleigh
+Richmond
+Reno
+Ft. Myers
+San Diego
+San Antonio
+Louisville
+Seattle
+San Francisco
+San Jose
+San Juan
+Salt Lake City
+Sacramento
+Santa Ana
+St Louis
+Tampa
+Tulsa
+Tucson
+Allentown
+Abilene
+Aberdeen
+Albany
+Nantucket
+Waco
+Arcata Eureka
+Atlantic City
+Adak
+Kodiak
+Alexandria
+Augusta
+King Salmon
+Albany
+Waterloo
+Amarillo
+Alpena
+Watertown
+Aspen
+Appleton
+Asheville
+Wilkes-Barre Scranton
+Kalamazoo
+Bethel
+Bakersfield
+Binghamton
+Bangor
+Billings
+Bismarck
+Bemidji
+Bellingham
+Bloomington
+Boise
+Beaumont Port Arthur
+Brunswick
+Aguadilla
+Brainerd
+Brownsville
+Barrow
+Butte
+Baton Rouge
+Burlington
+Bozeman
+Columbia
+Akron
+Cedar City
+Cordova
+Crescent City
+Chattanooga
+Charlottesville
+Chico
+Cedar Rapids
+Sault Ste. Marie
+NA
+College Station
+Champaign Urbana
+Hancock
+Moab
+Cody
+Colorado Springs
+Columbia
+Casper
+Corpus Christi
+Charleston
+Columbus
+Mosinee
+Cheyenne
+Daytona Beach
+Dayton
+Dubuque
+Dothan
+Dickinson
+Dillingham
+Duluth
+Durango
+Del Rio
+Des Moines
+Devils Lake
+Eau Claire
+Eagle
+Elko
+Elmira
+Erie
+Escanaba
+Eugene
+Evansville
+New Bern
+Key West
+Fairbanks
+Fargo
+Fresno
+Fayetteville
+Kalispell
+Flagstaff
+Florence
+Flint
+Topeka
+Sioux Falls
+Fort Smith
+Fort Wayne
+Gillette
+Garden City
+Spokane
+Grand Forks
+Longview
+Grand Junction
+Gainesville
+Gulfport-Biloxi
+Green Bay
+Grand Island
+Killeen
+Grand Rapids
+Greensboro
+Greer
+Gustavus
+Great Falls
+Columbus-Starkville-West Point
+Gunnison
+Agana
+Hayden
+Hibbing
+Helena
+Hobbs
+White Plains
+Harlingen
+Huntsville
+Huntington
+Hyannis
+Hays
+Wichita
+Idaho Falls
+Wilmington
+Wilmington
+Iron Mountain Kingsford
+International Falls
+Imperial
+Williston
+Islip
+Ithaca
+Hilo
+Inyokern
+Jackson
+Jackson
+Joplin
+Jamestown
+Juneau
+Kailua Kona
+Ketchikan
+Lansing
+Laramie
+Lawton
+Lubbock
+Lake Charles
+Lexington
+Lafayette
+Long Beach
+Lihue
+Klamath Falls
+Lincoln
+Laredo
+La Crosse
+Lewisburg
+Lewiston
+Lynchburg
+Midland
+Saginaw
+Macon
+Harrisburg
+Meridian
+McAllen
+Medford
+Montgomery
+Manhattan
+Manchester
+Muskegon
+Melbourne
+Moline
+Monroe
+Mammoth Lakes
+Mobile
+Modesto
+Minot
+NA
+Monterey
+Madison
+Missoula
+Montrose
+Marthas Vineyard
+Moses Lake
+Myrtle Beach
+Jacksonville
+Nome
+Worcester
+North Bend
+Kotzebue
+Oxnard
+Paducah
+Panama City
+Newport News
+Peoria
+Hattiesburg-Laurel
+St. Petersburg
+Pocatello
+Pierre
+Pellston
+Pensacola
+Pago Pago
+Pasco
+Ponce
+Petersburg
+Palm Springs
+Pueblo
+Portland
+Rapid City
+Redding
+Redmond
+Rockford
+Rhinelander
+Rock Springs
+Roanoke
+Rochester
+Roswell
+Rochester
+Santa Fe
+Savannah
+Santa Barbara
+South Bend
+San Luis Obispo
+Deadhorse
+NA
+Springfield
+St George
+Staunton Harrisonburg
+Shreveport
+Sitka
+San Angelo
+Santa Maria
+Springfield
+NA
+Wichita Falls
+Sarasota
+St Cloud
+Charlotte Amalie
+Christiansted
+Hailey
+Sioux City
+Newburgh
+Syracuse
+Telluride
+Tallahassee
+Toledo
+Bristol
+Trenton
+Tupelo
+Traverse City
+Twin Falls
+Texarkana
+Tyler
+Knoxville
+Vernal
+Valdosta
+Valparaiso
+Wrangell
+West Yellowstone
+Fayetteville Springdale Rogers
+Yakutat
+Yuma
