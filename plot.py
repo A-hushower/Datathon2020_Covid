@@ -1,3 +1,4 @@
+import plotly
 import plotly.express as px
 import plotly.graph_objects as go
 import pandas as pd
@@ -49,8 +50,8 @@ fig.update_layout(
         )
     )
 
-
-fig.show()
+plotly.offline.plot(fig, filename='us_risks.html') 
+#fig.show()
 
 '''
 with open('map_data.txt') as map_file:
